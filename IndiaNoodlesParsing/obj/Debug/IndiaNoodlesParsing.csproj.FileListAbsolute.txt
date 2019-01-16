@@ -1,0 +1,11 @@
+E:\Clue-Box Work\V.Studio\IndiaNoodlesParsing\IndiaNoodlesParsing\bin\Debug\IndiaNoodlesParsing.exe.config
+E:\Clue-Box Work\V.Studio\IndiaNoodlesParsing\IndiaNoodlesParsing\bin\Debug\IndiaNoodlesParsing.exe
+E:\Clue-Box Work\V.Studio\IndiaNoodlesParsing\IndiaNoodlesParsing\bin\Debug\IndiaNoodlesParsing.pdb
+E:\Clue-Box Work\V.Studio\IndiaNoodlesParsing\IndiaNoodlesParsing\bin\Debug\SpssLib.dll
+E:\Clue-Box Work\V.Studio\IndiaNoodlesParsing\IndiaNoodlesParsing\bin\Debug\SpssLib.xml
+E:\Clue-Box Work\V.Studio\IndiaNoodlesParsing\IndiaNoodlesParsing\obj\Debug\IndiaNoodlesParsing.exe
+E:\Clue-Box Work\V.Studio\IndiaNoodlesParsing\IndiaNoodlesParsing\obj\Debug\IndiaNoodlesParsing.pdb
+E:\Clue-Box Work\V.Studio\IndiaNoodlesParsing\IndiaNoodlesParsing\obj\Debug\IndiaNoodlesParsing.csprojResolveAssemblyReference.cache
+D:\Dotnet project\IndiaNoodlesParsing\IndiaNoodlesParsing\bin\Debug\IndiaNoodlesParsing.exe.config
+D:\Dotnet project\IndiaNoodlesParsing\IndiaNoodlesParsing\obj\Debug\IndiaNoodlesParsing.exe
+D:\Dotnet project\IndiaNoodlesParsing\IndiaNoodlesParsing\obj\Debug\IndiaNoodlesParsing.pdb
